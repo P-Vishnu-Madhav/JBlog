@@ -19,13 +19,7 @@ tag:
 <center><b>JBlog</b> I am me.</center>
 
 ## About
-
-I have used this theme in my own php and ruby blogs.I got inspired by [taylantatli](https://github.com/taylantatli/)'s [moon](https://github.com/taylantatli/moon) and [ramme](https://github.com/taylantatli/ramme) themes to use this theme in Jekyll.
-
-I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
-
-I see some people using this theme. I need to search on Github to find who use it. But I don't want to search like this. If you like this theme or using it, please give a **star** for motivation.
-
+I am a cyber security enthisiast pursuing my Btech in Amrita vishwa vidyapeetham also member of Team bi0s.I am specifically intrested in the fields of Reverse Engineering.
 ## Installation
 * Fork the [Repo](https://github.com/alperenbozkurt/JBlog/fork)
 * Edit `_config.yml` file.
