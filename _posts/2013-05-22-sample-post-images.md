@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
+title: "Powerful people come from powerful places"
+date: 2020-06-8
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 ---
