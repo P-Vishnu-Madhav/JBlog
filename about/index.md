@@ -6,7 +6,7 @@ date: 2016-03-21
 ---
 
 
-<center><b>L4V450N'S HOME</b> is a simple jekyll theme.</center>
+<center><b>L4V450N'S HOME</b> Welcome to my World.</center>
 
 ## About
 
