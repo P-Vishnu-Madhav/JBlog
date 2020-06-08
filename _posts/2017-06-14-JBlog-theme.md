@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JBlog Jekyll Theme"
+title:  "Welcome"
 image: "http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png"
 date:   2016-03-21
 excerpt: "Simple Jekyll theme for your blog by Alperen Bozkurt."
