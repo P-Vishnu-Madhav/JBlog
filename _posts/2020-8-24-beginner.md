@@ -3,8 +3,8 @@
 layout: post
 title: "Beginner: Writeup"
 date: 2020-8-24
-excerpt: "Angr"
-tags: [Writeup,Symbolic Execution]
+excerpt: "Angr,Symbolic Execution"
+tags: [Writeup,Angr]
 ---
 Recently I played GoogleCTF and had a lot of fun solving begineer and Android challenges. This challenge was the warmup for Revering category . Althroughthe challenge can be solved in manyways but symbolic execution is the best way which saves a lot of time than other techniques.
  
