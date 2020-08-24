@@ -2,8 +2,8 @@
 ---
 layout: post
 title: "Beginner: Writeup"
-data: 2020-8-24
-excerpt: "Angr,Symbolic Execution"
+date: 2020-8-24
+excerpt: "Angr"
 tags: [Writeup,Symbolic Execution]
 ---
 Recently I played GoogleCTF and had a lot of fun solving begineer and Android challenges. This challenge was the warmup for Revering category . Althroughthe challenge can be solved in manyways but symbolic execution is the best way which saves a lot of time than other techniques.
@@ -16,7 +16,7 @@ So looking into the decompilation of the binary through ghidra
 We can see that there are 2 string comparisions there and its preety obvious that if the comparision is same it prints out the flag.So looking into
 the operations done before string compare through GDB we can find out that there is a shuffle taking place in the input we give and then our input is manipulated through Add32 and xored.
 
-[img](https://raw.githubusercontent.com/P-Vishnu-Madhav/Writeups_files/master/Screenshot%20from%202020-08-24%2022-37-33.png)
+![img](https://raw.githubusercontent.com/P-Vishnu-Madhav/Writeups_files/master/Screenshot%20from%202020-08-24%2022-37-33.png)
 
 The operations looks little tricky and takes time to understand properly and write a script for the following. What to do now :/ ??!
 
