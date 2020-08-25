@@ -1,11 +1,11 @@
 
 ---
 layout: post
-title: "Beginner: Writeup"
+title: "Writeup for Beginner Google CTF-2020"
 date: 2020-08-24
 excerpt: "Angr,Symbolic Execution"
-tags: [Writeup,Angr]
 ---
+
 Recently I played GoogleCTF and had a lot of fun solving begineer and Android challenges. This challenge was the warmup for Revering category . Althroughthe challenge can be solved in manyways but symbolic execution is the best way which saves a lot of time than other techniques.
  
 You can find out the challenge file [here](https://github.com/P-Vishnu-Madhav/Writeups_files/blob/master/a.out). So running the binary we see that it 
