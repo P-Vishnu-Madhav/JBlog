@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Beginner: Writeup"
-date: 2020-8-24
+date: 2020-08-24
 excerpt: "Angr,Symbolic Execution"
 tags: [Writeup,Angr]
 ---
