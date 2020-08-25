@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frida walkthrough"
+title: "Frida walkthrough: tool"
 data: 2020-8-25
 excerpt: "Frida tool"
 tags: [Frida,Introduction]
