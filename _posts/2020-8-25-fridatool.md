@@ -208,7 +208,7 @@ If we see into the output whenever I execute my frida script it prints "Frida is
 
 ### Setting up Frida Server to hack vulnerable android apps
 1) Download Genymotion in your laptop/computer
-2) Run your custom phone in genymotion in terminal custom phone custom phone API 23 is highly recommended to download.
+2) Run your custom phone in genymotion in terminal custom phone custom phone API 23 is highly recommended to download as genymotion supports very well for API 23 
 3) Download [frida-server-12.11.9-android-x86_64.xz](https://github.com/frida/frida/releases)
 4) Rename frida-server-12.11.9-android-x86_64.xz as frida-server  
 5) ./adb push frida-server /data/local/tmp/
@@ -279,14 +279,8 @@ You will get all the connected devices to your laptop. In my case it is
  852  wpa_supplicant
  237  zygote
 ```
-### Having problems in installing diva in your virtual device? Follow the following commands
-9) kill the root process i.e the output of ./frida-server & with **kill -9 ./frida-server & output**
-output is the number when you do **./frida-server &**
-10) And then check ./frida-server &  
-11) ./adb forward tcp:1249 tcp: 1343
-You can give any port number  but the default port it listens is 27042.
-12) install  jakhar.aseem.diva by ./adb push 
-13) run frida -U -f jakhar.aseem.diva
+9) install  jakhar.aseem.diva by ./adb push 
+10) run frida -U -f jakhar.aseem.diva
 
 You are all set to start diva(damn insecure vulnerable application)
 
